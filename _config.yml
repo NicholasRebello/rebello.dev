@@ -21,7 +21,7 @@
 title: rebello.dev
 email: blog.contact@rebz.anonaddy.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal site for Nicholas Rebello. Contains blog on topics that he is currently researching(cybersecurity, networking, programming, etc), and a portfolio for projects he has made or worked on.
+  My InfoSec journey.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://rebello.dev # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Rebello_N
