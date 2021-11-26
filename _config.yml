@@ -30,7 +30,7 @@ show_excerpts: true
 permalink: /:collection/:year-:month-:day-:title:output_ext
 
 # Build settings
-theme: minima
+remote-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
