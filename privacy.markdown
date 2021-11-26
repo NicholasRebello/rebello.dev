@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Statement
+title: Privacy
 permalink: /privacy/
 ---
 
