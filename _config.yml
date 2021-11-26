@@ -31,6 +31,8 @@ permalink: /:collection/:year-:month-:day-:title:output_ext
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
 
