@@ -45,6 +45,9 @@ minima:
   github: NicholasRebello
   linkedin: Nicholas Rebello
 
+# Staticman link
+staticman_url: https://rebz-staticman/v3/entry/github/NicholasRebello/staticman/main/comments
+
 header_pages:
   - about.markdown
   - projects.markdown
