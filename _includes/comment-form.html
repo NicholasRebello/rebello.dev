@@ -3,7 +3,7 @@
     <input
       name="options[redirect]"
       type="hidden"
-      value="{{ page.url | absolute_url }}"
+      value="{{ 'comment-success' | absolute_url }}"
     />
     <input name="options[slug]" type="hidden" value="{{ page.slug }}" />
     
@@ -29,3 +29,13 @@
       <button class="comment-submit" type="submit">SEND</button>
     </div>
   </form>
+
+  <script>
+    var simplemde = new SimpleMDE({
+      element: document.getElementById("message-{{ include.parent_id }}"),
+      forceSync: true,
+      spellChecker: false,
+      status: false,
+      placeholder: "Comment (markdown supported)",
+    });
+  </script>

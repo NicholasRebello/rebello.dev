@@ -10,23 +10,13 @@
   {%- endif -%}
 
   {%- include custom-head.html -%}
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/180_GhostLogo.png' | relative_url }}"/>
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/32_GhostLogo.png' | relative_url }}"/>
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/16_GhostLogo.png' | relative_url }}"/>
 
-  <link
-    rel="apple-touch-icon"
-    sizes="180x180"
-    href="{{ '/180_GhostLogo.png' | relative_url }}"
-  />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="32x32"
-    href="{{ '/32_GhostLogo.png' | relative_url }}"
-  />
-  <link
-    rel="icon"
-    type="image/png"
-    sizes="16x16"
-    href="{{ '/16_GhostLogo.png' | relative_url }}"
-  />
+  <!-- Simple Markdown Editor -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
+  <script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
 
 </head>
