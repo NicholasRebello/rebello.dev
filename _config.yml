@@ -46,7 +46,7 @@ minima:
   linkedin: nicholas-rebello-7620b596
 
 # Staticman link
-staticman_url: https://rebz-staticman/v3/entry/github/NicholasRebello/staticman/main/comments
+staticman_url: https://rebz-staticman.herokuapp.com/v3/entry/github/NicholasRebello/staticman/main/comments
 
 header_pages:
   - about.markdown
