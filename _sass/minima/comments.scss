@@ -33,6 +33,7 @@
     
     .comment-bottom {
         display: flex;
+        border: 1px solid gray;
     }
 
     .comment-name {
@@ -43,10 +44,10 @@
     
     .comment-submit {
         width: 200px;
-        border: 1px solid gray;
-        color: lightgray;
+        border: 1px solid royalblue;
+        color: royalblue;
         font-weight: bold;
-        background-color: royalblue;
+        background-color: darkgray;
         &:hover {
             cursor: pointer;
         }
