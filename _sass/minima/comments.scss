@@ -56,10 +56,12 @@
     .CodeMirror, .editor-toolbar {
         border-radius: 0;
         background-color: darkgray;
+        border: 1px solid gray;
     }
     .CodeMirror, .CodeMirror-scroll {
         min-height: 150px;
         background-color: lightgray;
+        border: 1px solid gray;
     }
 }
 
