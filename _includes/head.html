@@ -5,8 +5,8 @@
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
+  {%- if jekyll.environment == 'production' -%}
+    <script async defer data-website-id="cb3518e1-2541-4a89-8640-5fb32b4575ff" src="https://rebz-umami.herokuapp.com/umami.js"></script>
   {%- endif -%}
 
   {%- include custom-head.html -%}
