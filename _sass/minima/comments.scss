@@ -22,8 +22,7 @@
     .comment-message, .comment-name {
         font-size: 16px;
         padding: 15px;
-        border: 1px solid #ddd;
-        color: green;
+        border: 1px solid gray;
         margin: 0;
     }
 
@@ -37,15 +36,17 @@
     }
 
     .comment-name {
-        flex: 1
+        flex: 1;
+        background-color: lightgray;
+
     }
     
     .comment-submit {
         width: 200px;
-        border: 1px solid #ddd;
-        color: royalblue;
+        border: 1px solid gray;
+        color: lightgray;
         font-weight: bold;
-        
+        background-color: royalblue;
         &:hover {
             cursor: pointer;
         }
@@ -53,9 +54,11 @@
 
     .CodeMirror, .editor-toolbar {
         border-radius: 0;
+        background-color: darkgray;
     }
     .CodeMirror, .CodeMirror-scroll {
         min-height: 150px;
+        background-color: lightgray;
     }
 }
 
@@ -73,7 +76,7 @@
         display: none;
         align-self: flex-end;
         padding: 5px 10px;
-        border: 1px solid #ddd;
+        border: 1px solid gray;
     }
     
     .open:hover, .close:hover {
