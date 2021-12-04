@@ -27,7 +27,7 @@ url: https://rebello.dev # the base hostname & protocol for your site, e.g. http
 # twitter_username: Rebello_N
 # github_username:  NicholasRebello
 show_excerpts: true
-permalink: /:collection/:year-:month-:day-:title:output_ext
+permalink: /:collection/:day-:month-:year-:title:output_ext
 
 # Author info
 author:
@@ -47,7 +47,7 @@ minima:
     linkedin: nicholas-rebello-7620b596
   
   # Date format
-  date_format: "%d%b%Y"
+  date_format: "%d-%b-%Y"
 
 # Staticman link
 staticman_url: https://rebz-staticman.herokuapp.com/v3/entry/github/NicholasRebello/rebello.dev/main/comments
