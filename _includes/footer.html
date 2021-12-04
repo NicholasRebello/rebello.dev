@@ -29,7 +29,13 @@
     </div>
 
     <div class="social-links">
-      {%- include _includes/social.html -%}
+      <!-- {%- include social.html -%} -->
+
+      <ul class="social-media-list">
+        <li><a rel="me" href="https://github.com/NicholasRebello" title="NicholasRebello"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg></a></li>{%- endif -%}
+        <li><a rel="me" href="https://www.linkedin.com/in/nicholas-rebello-7620b596" title="nicholas-rebello-7620b596"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg></a></li>{%- endif -%}
+        <li><a rel="me" href="https://twitter.com/Rebello_N" title="Rebello_N"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a></li>{%- endif -%}
+      </ul>
     </div>
 
   </div>
