@@ -41,9 +41,10 @@ minima:
   skin: dark
 
   # Social Links
-  twitter: Rebello_N
-  github: NicholasRebello
-  linkedin: nicholas-rebello-7620b596
+  social_links:
+    twitter: Rebello_N
+    github: NicholasRebello
+    linkedin: nicholas-rebello-7620b596
 
 # Staticman link
 staticman_url: https://rebz-staticman.herokuapp.com/v3/entry/github/NicholasRebello/rebello.dev/main/comments
