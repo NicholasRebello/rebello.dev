@@ -51,7 +51,7 @@ comments:
   # an error will be thrown.
   requiredFields: ["name", "message"]
 
-akismet:
- enabled: true
- author: "name"
- content: "message"
+# akismet:
+#  enabled: true
+#  author: "name"
+#  content: "message"
