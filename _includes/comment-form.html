@@ -12,13 +12,13 @@
       type="hidden"
       value="{{ include.parent_id }}"
     />
-    <textarea
+    <!-- <textarea
       id="message-{{ include.parent_id }}"
       class="comment-message"
       name="fields[message]"
       placeholder="Comment (markdown accepted)"
       required
-    ></textarea>
+    ></textarea> -->
     <div class="comment-bottom">
       <input
         class="comment-name"
@@ -31,7 +31,7 @@
     </div>
   </form>
 
-  <script>
+  <!-- <script>
     var simplemde = new SimpleMDE({
       element: document.getElementById("message-{{ include.parent_id }}"),
       forceSync: true,
@@ -39,4 +39,4 @@
       status: false,
       placeholder: "Comment (markdown supported)",
     });
-  </script>
+  </script> -->
