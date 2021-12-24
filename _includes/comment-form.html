@@ -12,7 +12,12 @@
       type="hidden"
       value="{{ include.parent_id }}"
     />
-    
+    <textarea
+      class="comment-message"
+      name="fields[message]"
+      placeholder="Type your comment here."
+      required
+    ></textarea>
     <div class="comment-bottom">
       <input
         class="comment-name"
