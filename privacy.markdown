@@ -13,6 +13,8 @@ I believe users have the right to know what data of theirs is being collected by
 
 The security of your Personal Information is important to me, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While I strive to use commercially acceptable means to protect your Personal Information, I cannot guarantee its absolute security.
 
+As a reminder, you don't need to have something to hide to care about your privacy.
+
 ## Umami Analytics
 I use [Umami](https://umami.is/docs/about) which I have forked, and hosting on Heroku. Umami doesn't collect any personally identifiable information, and simply is being used to provide some basic analytics for my site.
 
@@ -37,5 +39,3 @@ I will not sell, distribute or lease your personal information (if I have such i
 
 ## Data Breaches
 A data breach is an event which leads to the accidental, or unlawful, destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored or otherwise processed. A data breach will be reported to the relevant supervisory authority. All breaches of data will be disclosed publicly.
-
-Remember, you don't need to have something to hide to care about your privacy.
