@@ -34,13 +34,13 @@ Welcome to my portfolio/blog site! Here you will find documentation on my journe
 <script>
     var termynal = new Termynal('#termynal', {
     typeDelay: 40,
-    lineDelay: 700,
+    lineDelay: 600,
     lineData: [
-        {lineDelay: 10 value:'🆁🅴🅱🅴🅻🅻🅾.🅳🅴🆅'},
-        {lineDelay: 10 value:''},
+        {value:'🆁🅴🅱🅴🅻🅻🅾.🅳🅴🆅'},
+        {value:''},
         { type: 'input', prompt: '~', value: 'sudo apt install rebello.details' },
         { value: 'Are you sure you want to install \'rebello.details\'?' },
-        { type: 'input',  typeDelay: 500, prompt: '(y/n)', value: 'y' },
+        { type: 'input',  typeDelay: 450, prompt: '(y/n)', value: 'y' },
         { type: 'progress', progressChar: '·' },
         { value: 'Installed \'rebello.details\'' },
         { prompt:'>', value: '<a href="https://github.com/NicholasRebello">GitHub</a>' },
