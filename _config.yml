@@ -19,13 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: rebello.dev
-# email: blog.contact@rebz.anonaddy.com
 description: >- # this means to ignore newlines until "baseurl:"
   My InfoSec journey.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://rebello.dev # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: Rebello_N
-# github_username:  NicholasRebello
 show_excerpts: true
 permalink: /:collection/:day-:month-:year-:title:output_ext
 

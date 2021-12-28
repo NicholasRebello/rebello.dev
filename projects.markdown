@@ -10,11 +10,11 @@ permalink: /projects/
 
 ## [{{ repo.name }}]({{ repo.html_url }})
 
-{{ repo.description }}
+{{repo.description}}
 
-Topics: {{ repo.topics | array_to_sentence_string }}
+Topics: {{ repo.topics | array_to_sentence_string}}
 
-Last updated: {{ repo.updated_at | date_to_string }}
+Last updated: {{repo.updated_at | date_to_string}}
 
 {% endif %}
 
