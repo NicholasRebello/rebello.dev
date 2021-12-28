@@ -41,9 +41,9 @@ Welcome to my portfolio/blog site! Here you will find documentation on my journe
         { type: 'input',  typeDelay: 500, prompt: '(y/n)', value: 'y' },
         { type: 'progress', progressChar: '·' },
         { value: 'Installed \'rebello.details\'' },
-        { prompt:'>', value: <a href="https://github.com/NicholasRebello">GitHub</a> },
-        { prompt:'>', value: <a href="https://linkedin.com/in/nicholas-rebello-7620b596">LinkedIn</a> },
-        { prompt:'>', value: <a href="https://twitter.com/Rebello_N">Twitter</a> },
+        { prompt:'>', value: "test" },
+        { prompt:'>', value: "test" },
+        { prompt:'>', value: "test" },
     ]
     });
 </script>
