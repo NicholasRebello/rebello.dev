@@ -15,7 +15,7 @@ Welcome to my portfolio/blog site! Here you will find documentation on my journe
 
 <div id="termynal"></div>
     <!-- include and initialise termynal.js -->
-    <script src="assets/js/termynal.js"></script>
+    <script src="/assets/js/termynal.js"></script>
     <script>
         var termynal = new Termynal('#termynal', {
         typeDelay: 40,
