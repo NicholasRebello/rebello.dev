@@ -14,7 +14,7 @@ Welcome to my portfolio/blog site! Here you will find documentation on my journe
 * <a href="https://twitter.com/Rebello_N">Twitter</a>  -->
 
 ---
-layout: error
+layout: termynal
 title: About
 permalink: /about/
 titlecolor: yellow-pink
