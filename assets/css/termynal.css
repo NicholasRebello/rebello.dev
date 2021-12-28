@@ -86,13 +86,13 @@
 }
 
 .red {
-    color: var(--red);
+    --color-text: var(--red);
 }
 .yellow {
-    color: var(--yellow);
+    --color-text: var(--yellow);
 }
 .pink {
-    color: var(--pink);
+    --color-text: var(--pink);
 }
 
 /* Cursor animation */
