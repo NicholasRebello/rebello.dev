@@ -34,18 +34,21 @@ Welcome to my portfolio/blog site! Here you will find documentation on my journe
 <script>
     var termynal = new Termynal('#termynal', {
     typeDelay: 40,
-    lineDelay: 600,
+    lineDelay: 700,
     lineData: [
         {value:'🆁🅴🅱🅴🅻🅻🅾.🅳🅴🆅'},
-        {value:''},
         { type: 'input', prompt: '~', value: 'sudo apt install rebello.details' },
         { value: 'Are you sure you want to install \'rebello.details\'?' },
         { type: 'input',  typeDelay: 450, prompt: '(y/n)', value: 'y' },
         { type: 'progress', progressChar: '·' },
         { value: 'Installed \'rebello.details\'' },
-        { prompt:'>', value: '<a href="https://github.com/NicholasRebello">GitHub</a>' },
-        { prompt:'>', value: '<a href="https://linkedin.com/in/nicholas-rebello-7620b596">LinkedIn</a>' },
-        { prompt:'>', value: '<a href="https://twitter.com/Rebello_N">Twitter</a>' },
+        { prompt:'>', value: 'About Nicholas Rebello'},
+        { prompt:'>>', value: 'Naval Reactor Operator & Network Adminisrator'},
+        { prompt:'>', value: 'Contact Information'},
+        { prompt:'>>', value: '<a href="https://github.com/NicholasRebello">GitHub</a>' },
+        { prompt:'>>', value: '<a href="https://linkedin.com/in/nicholas-rebello-7620b596">LinkedIn</a>' },
+        { prompt:'>>', value: '<a href="https://twitter.com/Rebello_N">Twitter</a>' },
+        { prompt:'>>', value: '<a href="mailto:blog.contact@rebz.anonaddy.com">Email</a>'},
     ]
     });
 </script>
