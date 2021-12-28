@@ -16,6 +16,7 @@ Welcome to my portfolio/blog site! Here you will find documentation on my journe
 ---
 layout: error
 title: About
+permalink: /about/
 titlecolor: yellow-pink
 pwshheader: |
     <div data-ty="-" style="margin-top: -3rem; margin-bottom: 3rem;">
