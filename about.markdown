@@ -36,7 +36,7 @@ Welcome to my portfolio/blog site! Here you will find documentation on my journe
     typeDelay: 40,
     lineDelay: 700,
     lineData: [
-        {value:'🆁🅴🅱🅴🅻🅻🅾.🅳🅴🆅'},
+        { value:'🆁🅴🅱🅴🅻🅻🅾.🅳🅴🆅', color: "pink"},
         { type: 'input', prompt: '~', value: 'sudo apt install rebello.details' },
         { value: 'Are you sure you want to install \'rebello.details\'?' },
         { type: 'input',  typeDelay: 450, prompt: '(y/n)', value: 'y' },
