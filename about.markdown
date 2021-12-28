@@ -15,20 +15,12 @@ Welcome to my portfolio/blog site! Here you will find documentation on my journe
 
 <!-- the termynal container -->
 <div id="termynal" data-termynal>
-    <span data-ty="input">pip install spacy</span>
+    <span data-ty="input">sudo apt install rebello.details</span>
     <span data-ty="progress"></span>
-    <span data-ty>Successfully installed spacy</span>
-    <span data-ty></span>
-    <span data-ty="input">python -m spacy download en</span>
-    <span data-ty="progress"></span>
-    <span data-ty>Installed model 'en'</span>
-    <span data-ty></span>
-    <span data-ty="input">python</span>
-    <span data-ty="input" data-ty-prompt=">>>">import spacy</span>
-    <span data-ty="input" data-ty-prompt=">>>">nlp = spacy.load('en')</span>
-    <span data-ty="input" data-ty-prompt=">>>">doc = nlp(u'Hello world')</span>
-    <span data-ty="input" data-ty-prompt=">>>">print([(w.text, w.pos_) for w in doc])</span>
-    <span data-ty>[('Hello', 'INTJ'), ('world', 'NOUN')]</span>
+    <span data-ty>Successfully installed rebello.details</span>
+    <span data-ty><a href="https://github.com/NicholasRebello">GitHub</a></span>
+    <span data-ty><a href="https://linkedin.com/in/nicholas-rebello-7620b596">LinkedIn</a></span>
+    <span data-ty><a href="https://twitter.com/Rebello_N">Twitter</a></span>
 </div>
 
 <!-- include and initialise termynal.js -->
