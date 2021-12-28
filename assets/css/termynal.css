@@ -42,7 +42,7 @@
 }
 
 [data-termynal]:after {
-    content: 'bash';
+    content: 'rebello.dev';
     position: absolute;
     color: var(--color-text-subtle);
     top: 5px;
