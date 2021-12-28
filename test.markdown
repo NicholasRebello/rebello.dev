@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Testing
+permalink: /testing/
 ---
 ![Rebello]({{ "/assets/rebello.png" | relative_url }})
 
