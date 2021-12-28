@@ -4,9 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-This is a placeholder. This page will contain various projects that I am working on.
-
-<!-- {% for repo in site.github.public_repositories %}
+{% for repo in site.github.public_repositories %}
 
 {% if repo.fork == false and repo.topics.size > 0 %}
 
@@ -20,4 +18,4 @@ Last updated: {{ repo.updated_at | date_to_string }}
 
 {% endif %}
 
-{% endfor %} -->
+{% endfor %}
