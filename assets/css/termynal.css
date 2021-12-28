@@ -85,6 +85,15 @@
             animation: blink 1s infinite;
 }
 
+.red {
+    color: var(--red);
+}
+.yellow {
+    color: var(--yellow);
+}
+.pink {
+    color: var(--pink);
+}
 
 /* Cursor animation */
 
