@@ -49,13 +49,6 @@ minima:
   # Date format
   date_format: "%d-%b-%Y"
 
-# # Staticman link
-# staticman_url: https://rebz-staticman.herokuapp.com/v3/entry/github/NicholasRebello/rebello.dev/main/comments
-
-# # Disqus Comments
-# disqus:
-#   shortname: sltoo.github.io 
-
 header_pages:
   - about.markdown
   - projects.markdown
