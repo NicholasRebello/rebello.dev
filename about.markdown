@@ -12,7 +12,6 @@ Welcome to my portfolio/blog site! Here you will find documentation on my journe
 * <a href="https://github.com/NicholasRebello">GitHub</a>
 * <a href="https://linkedin.com/in/nicholas-rebello-7620b596">LinkedIn</a>
 * <a href="https://twitter.com/Rebello_N">Twitter</a>  -->
-<link rel="stylesheet" href="assets/css/termynal.css">
 
 <div id="termynal"></div>
     <!-- include and initialise termynal.js -->
