@@ -47,7 +47,6 @@ minima:
   date_format: "%d-%b-%Y"
 
 header_pages:
-  - test.markdown
   - about.markdown
   - projects.markdown
   - privacy.markdown
