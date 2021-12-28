@@ -13,25 +13,23 @@ Welcome to my portfolio/blog site! Here you will find documentation on my journe
 * <a href="https://linkedin.com/in/nicholas-rebello-7620b596">LinkedIn</a>
 * <a href="https://twitter.com/Rebello_N">Twitter</a>  -->
 
-<div id="termynal"></div>
-    <!-- include and initialise termynal.js -->
-    <script src="/assets/js/termynal.js"></script>
-    <script>
-        var termynal = new Termynal('#termynal', {
-            typeDelay: 40,
-            lineDelay: 700,
-            lineData: [
-                { type: 'input', prompt: '▲', value: 'npm uninstall react' },
-                { value: 'Are you sure you want to uninstall \'react\'?' },
-                { type: 'input',  typeDelay: 1000, prompt: '(y/n)', value: 'y' },
-                { type: 'progress', progressChar: '·' },
-                { value: 'Uninstalled \'react\'' },
-                { type: 'input', prompt:'▲', value: 'node' },
-                { type: 'input', prompt: '>', value: `Array(5).fill('🦄 ')` },
-                { value: `['🦄', '🦄', '🦄', '🦄', '🦄']` },
-                { type: 'input', prompt: '▲', value: 'cd ~/repos' },
-                { type: 'input', prompt: '▲ ~/repos', value: ' git checkout branch master' },
-                { type: 'input', prompt: '▲ ~/repos (master)', value: 'git commit -m \'Fix things\'' },
-            ]
-        });
-    </script>
+<!-- the termynal container -->
+<div id="termynal" data-termynal>
+    <span data-ty="input">pip install spacy</span>
+    <span data-ty="progress"></span>
+    <span data-ty>Successfully installed spacy</span>
+    <span data-ty></span>
+    <span data-ty="input">python -m spacy download en</span>
+    <span data-ty="progress"></span>
+    <span data-ty>Installed model 'en'</span>
+    <span data-ty></span>
+    <span data-ty="input">python</span>
+    <span data-ty="input" data-ty-prompt=">>>">import spacy</span>
+    <span data-ty="input" data-ty-prompt=">>>">nlp = spacy.load('en')</span>
+    <span data-ty="input" data-ty-prompt=">>>">doc = nlp(u'Hello world')</span>
+    <span data-ty="input" data-ty-prompt=">>>">print([(w.text, w.pos_) for w in doc])</span>
+    <span data-ty>[('Hello', 'INTJ'), ('world', 'NOUN')]</span>
+</div>
+
+<!-- include and initialise termynal.js -->
+<script src="/assets/js/termynal.js" data-termynal-container="#termynal"></script>
