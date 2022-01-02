@@ -13,7 +13,6 @@ permalink: /about/
     typeDelay: 50,
     lineDelay: 900,
     lineData: [
-        { class: "pink", value:'🆁🅴🅱🅴🅻🅻🅾.🅳🅴🆅'},
         { type: 'input', prompt: '~', value: 'sudo apt install rebello.details' },
         { type: 'input', prompt:'Enter Password for Sudo:', typeDelay: 120, value: '***********************'},
         { value: 'Are you sure you want to install \'rebello.details\'?' },
@@ -22,6 +21,8 @@ permalink: /about/
         { value: 'Installed \'rebello.details\'' },
         { prompt:'>', class: "red", value: 'About Nicholas Rebello'},
         { prompt:'>>', class: "yellow", value: 'Naval Reactor Operator & Network Adminisrator'},
+        { prompt:'>>', class: "yellow", value: 'EFF Member since 2021'},
+        { prompt:'>>', class: "yellow", value: 'Privacy Advocate and Technology Enthusiast'},
         { prompt:'>', class: "red", value: 'Contact Information'},
         { prompt:'>>', class: "yellow", value: '<a href="https://github.com/NicholasRebello">GitHub</a>' },
         { prompt:'>>', class: "yellow", value: '<a href="https://linkedin.com/in/nicholas-rebello-7620b596">LinkedIn</a>' },
