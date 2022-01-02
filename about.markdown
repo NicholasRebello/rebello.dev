@@ -15,7 +15,7 @@ permalink: /about/
     lineData: [
         { class: "pink", value:'🆁🅴🅱🅴🅻🅻🅾.🅳🅴🆅'},
         { type: 'input', prompt: '~', value: 'sudo apt install rebello.details' },
-        { type: 'input', prompt:'Enter Password for Sudo:', typeDelay: 120, value: '************************'},
+        { type: 'input', prompt:'Enter Password for Sudo:', typeDelay: 120, value: '***********************'},
         { value: 'Are you sure you want to install \'rebello.details\'?' },
         { type: 'input',  typeDelay: 550, prompt: '(y/n)', value: 'y' },
         { type: 'progress', progressChar: '·' },
