@@ -1,7 +1,8 @@
 ---
-title:  "Welcome to rebello.dev"
-date:   2022-07-27 19:30:00 -0800
+title: "Welcome to rebello.dev"
+date: 2022-07-27 19:30:00 -0800
 categories: [Site]
+published: true
 ---
 
 Welcome to rebello.dev, a GitHub Pages site where I intend on documenting my progress in the cybersecurity/network administration field. The main intention for this is for me to learn a little bit about basic web development, show off any projects I may be working on, and hopefully teach some stuff I learn along the way. The posts more or less will be informal in nature. It has been a long time since I've had any formal education in writing, so I plan on making these as if they were diary entries.

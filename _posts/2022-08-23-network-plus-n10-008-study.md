@@ -1,6 +1,6 @@
 ---
-title:  "How I studied for CompTIA Network+ N10-008"
-date:   2022-08-23 17:00:00 -0800
+title: "How I studied for CompTIA Network+ N10-008"
+date: 2022-08-23 17:00:00 -0800
 categories: [Networking, Certifications]
 tags: [CompTIA, Net+]
 published: true

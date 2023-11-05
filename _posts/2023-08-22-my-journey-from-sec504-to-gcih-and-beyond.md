@@ -1,6 +1,6 @@
 ---
-title:  "My Journey from SANS SEC504 to GCIH and Beyond"
-date:   2023-08-22 20:00:00 -0800
+title: "My Journey from SANS SEC504 to GCIH and Beyond"
+date: 2023-08-22 20:00:00 -0800
 categories: [Security, Certifications]
 tags: [GIAC, GCIH, SANS]
 published: true

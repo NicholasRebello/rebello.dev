@@ -1,6 +1,6 @@
 ---
-title:  "GSEC and Life Update"
-date:   2023-06-04 12:00:00 -0800
+title: "GSEC and Life Update"
+date: 2023-06-04 12:00:00 -0800
 categories: [Security, Certifications]
 tags: [GIAC, GSEC, SANS]
 published: true

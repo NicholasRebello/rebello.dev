@@ -1,7 +1,6 @@
 ---
-layout: post
-title:  "CompTIA Security+ SY0-601 and SANS VetSuccess Acceptance"
-date:   2023-03-03 17:00:00 -0800
+title: "CompTIA Security+ SY0-601 and SANS VetSuccess Acceptance"
+date: 2023-03-03 17:00:00 -0800
 categories: [Networking, Certifications]
 tags: [CompTIA, Sec+, SANS]
 published: true
