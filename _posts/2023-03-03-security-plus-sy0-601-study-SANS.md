@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "CompTIA Security+ SY0-601 and SANS VetSuccess Acceptance"
+date:   2023-03-03 17:00:00 -0800
+categories: [Networking, Certifications]
+tags: [CompTIA, Sec+, SANS]
+published: true
+---
+
+Last month I finally got around to getting certified CompTIA Security+. I had meant to do it much earlier than this, but work and life had gotten quite busy for me. I suppose all that matters is that I did eventually get around to doing it. I approached it in a very similar way that I did Network+. I purchased one month of the premium subscription for the ["IT & Cybersecurity Study Prep"](https://www.pocketprep.com/bundles/it-cybersecurity/) app on my phone and I answered all questions they had for Security+ until I answered them all correctly at least once. Since the last time I used the app they added a "Mock Exam" feature. Basically all that mode does is put you into a timed 90 question test where you are not informed on whether or not you got a question right until the very end. What is cool about it though is that it pulls from a separate pool of questions and not the main pool. Overall I find the app useful for preparing for these kinds of exams, but definitely shouldn't be your only source of preparation.
+
+<!--more-->
+
+The big difference in my studying this time compared to Network+ was the use of videos and books. Originally I had planned on binge watching all of [Professor Messer's](https://www.professormesser.com/) Security+ free videos, but I ended up running out of time. I only made it through maybe the first section or two before my exam date arrived. Looking back I should have allocated my time better in order to watch through all of those at least once. Professor Messer is an excellent instructor, and makes high quality content. At the end of the day though I ended up passing anyway, so I suppose I studied just the right amount. The book I used was [CompTIA Security+ All-in-One Exam Guide, Sixth Edition (Exam SY0-601) ](https://www.amazon.com/CompTIA-Security-Guide-Sixth-SY0-601-ebook/dp/B08NC38RQY). By far this was the best use of my study time. I used a PDF version and read through the entire book front to back on my iPad. I believe if the only thing I did to prepare for this certification exam was read this book; I would still have passed the exam.
+
+The day of the exam was pretty similar to the last one. I went back to the same testing center because I was familiar with it. This time there was way more people taking tests, and it was Valentine's day of all days. I didn't really prepare for the performance based questions, so I skipped those right off the bat to make sure that I was able to get through all of the multiple choice questions. There were surprisingly a lot of questions related to determining what sort of attack or tool was used given a log output. Overall I thought the test was harder than Network+, but I felt pretty confident throughout the whole test. Unlike Network+ I used way more time on this exam. By the time I finished the multiple choice questions I only had about 25 minutes left I believe. Gave me plenty of time to answer the performance based questions, and still have time to quickly review the multiple choice questions that I had flagged.
+
+The reason why I ended up rushing Security+ after putting it off for so long is because I just recently was accepted into the [SANS VetSuccess Immersion Academy](https://www.sans.org/scholarship-academies/vetsuccess/). It is a pretty awesome program offered by SANS for veterans that allows those selected to attend 3 SANS training courses and obtain the associated GIAC certification. I applied for it last November, and after completing a number of steps in the application process only just found out of my acceptance the first week of February. My first course is [SEC401 Security Essentials - Network, Endpoint, and Cloud](https://www.sans.org/cyber-security-courses/security-essentials-network-endpoint-cloud/?msc=401) and its associated certification GSEC. These exams are in a very different format compared to the CompTIA exams, so it will take me a little bit to get used to. Overall I have super enjoyed all of the content from the course so far, and I look forward to learning a lot more over these coming months. If I manage to find the time, I plan on writing more in depth about my study process and maybe a little about what I'm learning in another post. For now though I need to focus on getting out of the Navy, finding a job, and crushing these exams.
+
+Until next time,
+
+Rebello
