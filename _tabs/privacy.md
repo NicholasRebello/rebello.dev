@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fas fa-solid fa-lock
 order: 2
 ---
 * My website address is: <a href="https://rebello.dev">https://rebello.dev</a>

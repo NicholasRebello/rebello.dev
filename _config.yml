@@ -38,12 +38,13 @@ social:
   email: blog@rebello.dev # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/NicholasRebello # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
     - https://www.linkedin.com/in/Nicholas-Rebello
     - https://infosec.exchange/@rebello
+    - https://github.com/NicholasRebello # change to your github homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    # Uncomment below to add more social links
+    # - https://www.facebook.com/username
+
 
 google_site_verification: # fill in to your verification string
 
