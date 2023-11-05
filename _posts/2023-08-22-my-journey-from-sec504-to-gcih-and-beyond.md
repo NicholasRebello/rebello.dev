@@ -8,8 +8,6 @@ published: true
 
 Embarking on a journey to enhance one's cybersecurity skills is a rewarding endeavor, and I'm thrilled to share my recent accomplishments in the realm of information security. After completing the SANS SEC504 course and achieving the GCIH certification, it is hard not to reflect on the hands-on experience, comprehensive learning, and newfound excitement for offensive security. In this blog post, I'll delve into my journey, discussing the highlights of the course, my preparation strategies, and my future plans in the world of cybersecurity.
 
-<!--more-->
-
 One of the standout experiences in SEC504 was the exhilarating Capture The Flag (CTF) event at the end of the course. This event put my skills to the test, requiring me to navigate through various challenges that mimicked real-world scenarios. Solving these challenges not only solidified my understanding of the concepts but also provided a taste of the dynamic nature of cybersecurity. 
 
 As the GCIH certification approached, I adopted a multi-faceted approach to ensure success. I made the most of the On-Demand video content, allowing me to revisit complex topics and grasp them thoroughly. My daily commute had become a valuable learning opportunity as I listen to the provided .MP3 files, reinforcing my understanding and making the most of every available moment. Despite my busy schedule, I remained committed to my goals, even though time constraints prevented me from creating an index, a strategy that many candidates employ to navigate the exam more efficiently. Luckily enough for me I felt like my knowledge of the material was thourough enough, and the provided coursebooks were easy to navigate. I was able to pass the GCIH certification with no issues at all.
