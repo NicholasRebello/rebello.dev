@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 * My website address is: <a href="https://rebello.dev">https://rebello.dev</a>
-* For more details about this privacy policy please email: <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+* For more details about this privacy policy please email: <a class="u-email" href="mailto:{{ site.social.email }}">{{ site.social.email }}</a>
 * This policy sets out how I use and protect your information when you use this website.
 * This Privacy Policy was last updated _28-DEC-2022_.
 
