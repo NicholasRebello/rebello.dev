@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-solid fa-lock
-order: 2
+order: 3
 ---
 * My website address is: <a href="https://rebello.dev">https://rebello.dev</a>
 * For more details about this privacy policy please email: <a class="u-email" href="mailto:{{ site.social.email }}">{{ site.social.email }}</a>
