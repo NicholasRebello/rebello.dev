@@ -14,7 +14,7 @@ My professional journey has equipped me with a diverse set of skills, ranging fr
 
 ## A Blend of Education and Experience
 
-I've invested time and effort into furthering my knowledge, earning certifications such as GIAC Web Application Penetration Tester (GWAPT), GIAC Certified Incident Handler, GIAC Security Essentials, Network+, and Security+. My educational journey has been enhanced by my participation in the SANS VetSuccess Scholarship Academy. These experiences have allowed me to delve into courses like network security, ethical hacking, and web application penetration testing.
+I've invested time and effort into furthering my knowledge, earning certifications such as Practical Junior Penetration Tester (PJPT), GIAC Web Application Penetration Tester (GWAPT), GIAC Certified Incident Handler, GIAC Security Essentials, Network+, and Security+. My educational journey has been enhanced by my participation in the SANS VetSuccess Scholarship Academy. These experiences have allowed me to delve into courses like network security, ethical hacking, and web application penetration testing.
 
 ## Hands-On Learning and Cyber Interests
 
