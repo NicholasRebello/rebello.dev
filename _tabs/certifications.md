@@ -12,7 +12,7 @@ order: 2
     text-align: center;
     display: flex;
     flex-direction: column;
-    align-items: flex-stcenterart;
+    align-items: center;
     margin: 0 1% 20px 1%; /* Add margin to separate columns */
 }
 
@@ -30,6 +30,8 @@ order: 2
 @media (max-width: 768px) {
     .image-container {
     width: 45%; /* Adjust for two columns on smaller screens */
+    padding-left: 17%;
+    padding-right: 17%;
     }
 }
 
