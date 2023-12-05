@@ -53,7 +53,7 @@ order: 2
 <div class="image-container">
   <a href="https://www.credly.com/badges/610c3637-232c-4608-82bd-08312d8e039e" target="_blank"><img src="{{ site.baseurl }}/assets/img/certifications/gwapt.png" alt="GWAPT"></a>
   <p>Earned: 14-OCT-23</p>
-  <p>Expires: 31-OCT-23</p>
+  <p>Expires: 31-OCT-27</p>
 </div>
 
 <div class="image-container">
