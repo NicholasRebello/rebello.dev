@@ -6,10 +6,10 @@ order: 3
 * My website address is: <a href="https://rebello.dev">https://rebello.dev</a>
 * For more details about this privacy policy please email: <a class="u-email" href="mailto:{{ site.social.email }}">{{ site.social.email }}</a>
 * This policy sets out how I use and protect your information when you use this website.
-* This Privacy Policy was last updated _28-DEC-2022_.
+* This Privacy Policy was last updated _21-MAY-2024_.
 
 ## Your Privacy is Important
-I believe users have the right to know what data of theirs is being collected by the websites they visit. I am committed to ensuring that your privacy is protected. I have no interest in any of your personal information. Instead I actually encourage you to use browser plugins such as [uBlockOigin](https://ublockorigin.com/), [Decentraleyes](https://decentraleyes.org/), and [ClearURLs](https://github.com/ClearURLs/Addon) to help minimize the amount of information your computer gives up.
+I believe users have the right to know what data of theirs is being collected by the websites they visit. I am committed to ensuring that your privacy is protected. I have no interest in any of your personal information. Instead I actually encourage you to use browser plugins such as [uBlockOrigin](https://ublockorigin.com/), [Decentraleyes](https://decentraleyes.org/), and [ClearURLs](https://github.com/ClearURLs/Addon) to help minimize the amount of information your computer gives up.
 
 Remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While I strive to use commercially acceptable means to protect your Personal Information, I cannot guarantee its absolute security.
 
